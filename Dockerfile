@@ -1,0 +1,1 @@
+FROM ghcr.io/astral-sh/uv:0.8-python3.14-rc-bookworm
